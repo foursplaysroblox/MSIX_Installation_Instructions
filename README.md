@@ -12,4 +12,4 @@ Windows Prompts an error saying that app is untrusted what should you do?
 8. click ok and then next
 9. click on that msix file app you want to install
 
-Credits: https://github.com/Rise-Software/Rise-Media-Player
+Credits: [Rise-Software](https://github.com/Rise-Software/Rise-Media-Player) 
