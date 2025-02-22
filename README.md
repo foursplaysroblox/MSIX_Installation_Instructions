@@ -1,4 +1,4 @@
-# MSIX Installation Instructions
+# MSIX Installation Instructions (FIle Explorere Properties Method)
 Instructions for MSIX Bundle / AppxBundle install
 Windows Prompts an error saying that app is untrusted what should you do?
 
@@ -13,7 +13,7 @@ Windows Prompts an error saying that app is untrusted what should you do?
 9. click on that msix / AppxBundle app you want to install
 
 # MSIX Installation Instructions (Powershell Unsigned Method)
-If you do not like doing the first method above maybe this one is better for you
+If you do not like doing the first method above or the certificate expired maybe this method would work for you
 Instructions
 1. Click the msix file you want to install and copy the file location of it (you will need it later)
 2. Go to the Windows search area and search "Powershell" this can be legacy Powershell (Default) or Powershell 7 ![tutorial](https://github.com/user-attachments/assets/e4ad209e-494a-4214-9bd4-62b62a7158bd)
