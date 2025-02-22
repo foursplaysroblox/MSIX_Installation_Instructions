@@ -1,4 +1,4 @@
-# MSIX Installation Instructions (FIle Explorere Properties Method)
+# MSIX Installation Instructions (FIle Explorer Properties Method)
 Instructions for MSIX Bundle / AppxBundle install
 Windows Prompts an error saying that app is untrusted what should you do?
 
